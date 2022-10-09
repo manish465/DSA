@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28825a6-891d-4328-afab-ee2243f28a51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/AverageOfASubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/FruitsIntoBaskets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/LongestNorepeatSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/LongestSubarrayWithOnesAfterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/LongestSubstringWithKDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/LongestSubstringWithSameLettersAfterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/PermutationInASubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/SmallestSubarrayWithAGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/SmallestWindowContainingSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slidingwindow/SubstringAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/PairWithTargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/SquaringASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/TripletSumToZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
