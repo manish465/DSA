@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28825a6-891d-4328-afab-ee2243f28a51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question/twopointers/PairWithTargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/twopointers/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/twopointers/SquaringASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/twopointers/TripletSumToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/DutchNationalFlagProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/QuadrupleSumToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/TripletSumCloseToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/twopointers/TripletsWithSmallerSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question/twopointers/TripletSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/twopointers/TripletSumToZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

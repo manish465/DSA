@@ -10,7 +10,6 @@ public class TripletSumToZero {
      }
 
      public static List<List<Integer>> solution(int[] arr){
-         int start = 0, end = arr.length - 1;
          Arrays.sort(arr);
          List<List<Integer>> output = new ArrayList<>();
 
