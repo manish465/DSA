@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class SmallestWindowContainingSubstring {
     public static void main(String[] args) {
-        String str = "aascbjsaqcbqascbcqabc" , pattern = "abc";
+        String str = "ADOBECODEBANC" , pattern = "ABC";
 
         System.out.println(solution(str,pattern));
     }
@@ -28,7 +28,7 @@ public class SmallestWindowContainingSubstring {
 
             while (matched == pattern.length()){
                 if(minLen > (end - start + 1)){
-                    minLen = (end -start + 1);
+                    minLen = (end - start + 1);
                     subStrStart = start;
                 }
 

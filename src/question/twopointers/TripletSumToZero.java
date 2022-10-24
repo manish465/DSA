@@ -14,7 +14,7 @@ public class TripletSumToZero {
          List<List<Integer>> output = new ArrayList<>();
 
          for(int i=0;i < arr.length - 2;i++){
-             if(i>0 && arr[i] == arr[i+1])
+             if(i>0 && arr[i] == arr[i-1])
                  continue;
              twoSum(arr,-arr[i],i+1,output);
          }
