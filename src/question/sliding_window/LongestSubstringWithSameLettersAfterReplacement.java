@@ -1,4 +1,4 @@
-package question;
+package question.sliding_window;
 
 /*
 * Given a string with lowercase letters only, if you are allowed to replace no more than ‘k’ letters with any letter,

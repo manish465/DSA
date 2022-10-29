@@ -1,4 +1,4 @@
-package question;
+package question.sliding_window;
 
 /*
 * Given an array of positive numbers and a positive number ‘S’, find the length of the smallest

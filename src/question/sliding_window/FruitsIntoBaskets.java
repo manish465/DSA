@@ -1,4 +1,4 @@
-package question;
+package question.sliding_window;
 
 /*
 Given an array of characters where each character represents a fruit tree,

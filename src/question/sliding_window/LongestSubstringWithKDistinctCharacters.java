@@ -1,4 +1,4 @@
-package question;
+package question.sliding_window;
 
 /*
 * Given a string, find the length of the longest substring in it with no more than K distinct characters.
