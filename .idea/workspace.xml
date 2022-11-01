@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28825a6-891d-4328-afab-ee2243f28a51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/DutchNationalFlagProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/PairWithTargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/QuadrupleSumToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/SquaringASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/TripletSumCloseToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/TripletSumToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/two_pointers/TripletsWithSmallerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/StartOfLinkedListCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/AverageOfAllContiguousSubarraysOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/AverageOfAllContiguousSubarraysOfSizeK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/FruitsIntoBaskets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/FruitsIntoBaskets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/LongestSubarrayWithOnesAfterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/LongestSubarrayWithOnesAfterReplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/LongestSubstringWithKDistinctCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/LongestSubstringWithKDistinctCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/LongestSubstringWithSameLettersAfterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/LongestSubstringWithSameLettersAfterReplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/MaximumSumSubarrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/MaximumSumSubarrayOfSizeK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/NoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/NoRepeatSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/PermutationInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/PermutationInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/SmallestSubarrayWithAGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/SmallestSubarrayWithAGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/SmallestWindowContainingSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/SmallestWindowContainingSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question/StringAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/sliding_window/StringAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
