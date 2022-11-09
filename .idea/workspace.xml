@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28825a6-891d-4328-afab-ee2243f28a51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/StartOfLinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindAllDuplicateNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindAllMissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindTheCorruptPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindTheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindTheMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/cyclic_sort/FindTheSmallestMissingPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/inplacereversalofalinkedlist/ReverseALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/inplacereversalofalinkedlist/ReverseASublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/merge_intervals/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/merge_intervals/MergeIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/slow_and_fast_pointers/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
