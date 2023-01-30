@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28825a6-891d-4328-afab-ee2243f28a51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question/tree_breadth_first_search/ConnectLevelOrderSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/tree_breadth_first_search/LevelOrderSuccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/tree_breadth_first_search/MinimumDepthOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/AllPathsForASum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/BinaryTreePathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/CountPathsForASum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/PathWithGivenSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/SumOfPathNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/tree_depth_first_search/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/question/tree_breadth_first_search/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question/tree_breadth_first_search/TreeNode.java" afterDir="false" />
     </list>
